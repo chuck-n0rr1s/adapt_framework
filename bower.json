@@ -1,8 +1,9 @@
 {
-  "name": "my-adapt-course",
-  "version": "0.0.0",
+  "name": "new-name",
+  "version": "0.0.1",
   "authors": [
-    "AdaptLearning"
+    "AdaptLearning",
+    "Chuck N0rr1s"
   ],
   "main": "build/index.html",
   "license": "GPLv3",
